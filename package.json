@@ -14,7 +14,8 @@
     "prepare": "husky install"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.0.0",
+    "yarn": "1.22.19"
   },
   "dependencies": {
     "@dlarroder/playground": "^1.2.2",
