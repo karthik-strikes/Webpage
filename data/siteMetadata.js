@@ -9,6 +9,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.webp',
   socialBanner: '/static/images/twitter-card.png',
+  twitter: 'https://twitter.com/KarthikKosuri5',
   email: 'karthikkosuri695@gmail.com',
   github: 'https://github.com/karthik-strikes',
   linkedin: 'https://www.linkedin.com/in/karthikkosuri/',
